@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Lobster|Orbitron|Pacifico');
+
+body {
+  background-color: black;
+}
+
+.tomatoBox {
+  height: 450px;
+  width: 480px;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #D50000;
+  border-radius: 300px;
+  border-style: solid;
+  border-width: 8px;
+ 
+}
+
+.title {
+  padding-top: 30px;
+}
+
+h1 {
+
+  color: white;
+}
+
+.clock {
+  padding-top: 50px;
+  color: white;
+}
+
+.controls {
+  color: white;
+}
+
+#start {
+  cursor: pointer;
+  margin-top: 10%;
+  margin-left: 185px;
+}
+
+#pause {
+  cursor: pointer;
+  margin-top: 10%;
+  margin-left: 20px;
+}
+
+#reset {
+  cursor: pointer;
+  margin-top: 10%;
+  margin-left: 20px;
+}
+
+.settings {
+  background-color: black;
+  height: 100px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white; 
+}
+  
+#minus {
+  cursor: pointer;
+  size: 15px;
+  margin-left: 50px;
+    
+  }
+
+#plus {
+  
+  margin-left: 20px;
+  cursor: pointer;
+  size: 15x;
+    
+  }
+
+#minusBreak {
+  margin-top: 20px;
+  cursor: pointer;
+  size: 15px;
+  margin-left: 50px;
+    
+  }
+
+#plusBreak {
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+  size: 15x;
+    
+  }
+
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+   font-family: 'Pacifico', cursive;
+  color: black;
+  
+}
+
+h3 {
+  font-family: 'Audiowide', cursive;
+}
+
+.controls {
+  padding-top: 10px;
+}
+
+.breakClock {
+  margin-top: 50px;
+  color: white;
+}
+
+#minusBreak {
+  cursor: pointer;
+  size: 15px;
+    
+  }
+
+#plusBreak {
+  
+  cursor: pointer;
+  size: 15x;
+    
+  }

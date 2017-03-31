@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Fascinate+Inline|Orbitron');
+
+@import url('https://fonts.googleapis.com/css?family=Mogra');
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+body {
+  background-color: black;
+}
+
+#logo {
+  font-family: 'Bungee', cursive;
+  color: white;
+}
+
+.weather-box {
+  background-color: white;
+ 
+}
+
+.location {
+  font-size: 40px;
+  font-family: 'Fascinate Inline', cursive;
+}
+
+.icon-status {
+  font-size: 45px;
+  font-family: 'Sans Serif', cursive;
+}
+
+#icon {
+  font-size: 60px;;
+}
+
+.celsius {
+  font-size: 35px;
+}
+
+.symbol {
+  font-size: 45px;
+}
+
+.temp {
+  font-size: 45px;
+  font-family: 'Oswald', sans-serif;
+}
+
+a:link {
+  color: grey;
+  
+}
+
+a:visited {
+  color: grey;
+}
+
+.active {
+  color: black !important;
+}

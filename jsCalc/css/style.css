@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Audiowide|Michroma');
+
+body {
+  margin-top: 100px;
+  background-color: silver;
+}
+
+h2 {
+  color: black;
+  font-family: 'Audiowide', cursive;
+}
+
+.buttonsize {
+  width: 52.69px;
+  height: 38px;
+  font-family: 'Audiowide', cursive;
+  
+}
+
+
+.buttons {
+  width: 90% ;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.display {
+  width: 90% ;
+  margin-top: 5px;
+  border-radius: 2px;
+  border-color: black;
+  border-style: solid;
+  background-color: #616161;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+  color: white;
+}
+
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+.calculator-main {
+  
+  height: 390px;
+  width: 350px;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #90A4AE;
+  border: 2px solid #908b85;
+  font-family: 'Audiowide', cursive;
+
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  font-family: 'Righteous', cursive;
+}
+
+#result-box {
+  margin: auto;
+}
+
+.titleResult {
+  
+  
+}
+
+.description {
+  
+}

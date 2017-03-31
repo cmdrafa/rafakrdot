@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Cinzel');
+
+body {
+  background-color: #3b5998;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-brand {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.navbar-toggle {
+  border: none;
+  background: transparent !important;
+  
+  &:hover {
+    background: transparent !important;
+  }
+
+  .icon-bar {
+    width: 22px;
+    transition: all 0.2s;
+  }
+  .top-bar {
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
+  }
+  .middle-bar {
+    opacity: 0;
+  }
+  .bottom-bar {
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+  }
+
+  &.collapsed {
+    .top-bar {
+      transform: rotate(0);      
+    }
+    .middle-bar {
+      opacity: 1;
+    }
+    .bottom-bar {
+      transform: rotate(0);
+    }
+  }
+}
+
+a:link { color: white;
+  
+}
+
+a:visited { 
+    color: white;
+  }
+
+
+.twitter {
+  background-color: #1da1f2;
+  color: white;
+}
+
+.facebook {
+  background-color: #3b5998;
+  color: white;
+}
+
+.gplus {
+  background-color: #DD4B39;
+  color: white;
+}
+
+#quote-thing {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+#author {
+  font-family: 'Cinzel', serif;
+  font size: 30px;
+  text-align: right;
+  font-weight: bold;
+}
+
+#foot {
+  color: white;
+}
